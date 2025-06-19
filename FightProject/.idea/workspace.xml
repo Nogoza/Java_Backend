@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600bdff1-0454-4282-9064-c49ac35ed2e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../FightProject.java/MetotlarRecursiveÜsHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FightProject.java/MetotlarRecursiveÜsHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FightProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FightProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tarik/Desktop/JavaP/FightProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,6 +92,8 @@
       <updated>1749720382089</updated>
       <workItem from="1749720383205" duration="3173000" />
       <workItem from="1750346232385" duration="4113000" />
+      <workItem from="1750352154984" duration="12000" />
+      <workItem from="1750352955726" duration="158000" />
     </task>
     <servers />
   </component>
